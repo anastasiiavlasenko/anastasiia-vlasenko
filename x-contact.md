@@ -5,15 +5,15 @@ permalink: /contact/
 ---
 
 
-Jordan Center for the Advanced Study of Russia, 
+Harriman Institute, 
 
-New York University,
+Columbia University,
 
-Room 217, University Pl, 
+420 W 118th St, 
 
-New York, NY 10003
+New York, NY 10027
 
-[+1 212-992-6575](tel:+12129926575)
+[+1 212-854-4623](tel:+12128544623)
 
-[av1508@nyu.edu](mailto:av1508@nyu.edu)
+[av3228@columbia.edu](mailto:av3228@columbia.edu)
 
