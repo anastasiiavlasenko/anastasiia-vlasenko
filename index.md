@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Anastasiia Vlasenko, PhD](/anastasiia-vlasenko.jpg)
+![Anastasiia Vlasenko, PhD](/vlasenko.JPG)
 
 I am a Postdoctoral Research Scholar in the Harriman Institute at Columbia University, a Research Associate at Harvard University, and a Visiting Professor at Kyiv School of Economics. I am also a recent HURI Research Fellow at Harvard’s Ukrainian Research Institute and a recent Postdoctoral Fellow at the NYU Jordan Center for the Advanced Study of Russia. My primary research focus is electoral politics and democratization with specialization in politics of Ukraine and Russia. My monograph project, “Legislators in Networks: Corruption, Clientelism, and Law Making” investigates how legislative networks formed through parliamentary aids can affect rent-seeking behavior in the Ukrainian parliament. I am particularly interested in transitional period reforms, propaganda, legislative politics, and forecasting. My research has been published in the Journal of Politics and PS: Political Science & Politics. 
 
