@@ -11,6 +11,7 @@ permalink: /research/
 
 **Manuscripts**
 
+- Vlasenko, Anastasiia, Tina Freyburg, and Madalina Dobrescu. “Unpacking EU democracy assistance. What model of democracy does EU funding suit?”
 - Vlasenko, Anastasiia. “Legislators in Networks: Corruption, Clientelism, and Policy Making.”
 - Vlasenko, Anastasiia. “The Electoral Effects of Decentralization: Evidence from Ukraine.” (Dissertation)
 -	Vlasenko, Anastasiia. “Decentralization Reform and Redistribution: Evidence from Ukraine.” (Dissertation)
