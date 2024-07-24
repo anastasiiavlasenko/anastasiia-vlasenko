@@ -4,6 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-<iframe src="https://drive.google.com/file/d/1ulDOtKN58e6fcEaqSqv1lqsexkr0di7Y/view?usp=sharing" width="100%" height="800em"></iframe>
-
-
+<iframe src="https://www.dropbox.com/scl/fi/re8rnd8h0q8fafqmnze8a/Vlasenko_CV.pdf?rlkey=q2mkddlnnciju14u6t1p5vmwy&st=33ji6x4h&dl=0" width="100%" height="800em"></iframe>
